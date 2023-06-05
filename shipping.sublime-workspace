@@ -1,0 +1,413 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"b",
+				"body"
+			],
+			[
+				"h",
+				"html"
+			],
+			[
+				"g",
+				"green"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"padding-",
+				"padding-top"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"pa",
+				"padding-right"
+			],
+			[
+				"padding",
+				"padding-left"
+			],
+			[
+				"margi",
+				"margin-top"
+			],
+			[
+				"s",
+				"sans-serif"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"i",
+				"input"
+			],
+			[
+				"co",
+				"col-sm-12"
+			],
+			[
+				"bo",
+				"body"
+			],
+			[
+				"in",
+				"input"
+			],
+			[
+				"borde",
+				"border-collapse"
+			],
+			[
+				"border-co",
+				"border-collapse"
+			],
+			[
+				"ti",
+				"title"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"t",
+				"text-align"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"backgr",
+				"background-color"
+			],
+			[
+				"background",
+				"background-clip"
+			],
+			[
+				"fo",
+				"font-family"
+			],
+			[
+				"red",
+				"darkred"
+			],
+			[
+				"siz",
+				"box-sizing"
+			],
+			[
+				"blue",
+				"powderblue"
+			],
+			[
+				"si",
+				"size"
+			],
+			[
+				"white",
+				"whitesmoke"
+			],
+			[
+				"p",
+				"pink"
+			],
+			[
+				"he",
+				"header"
+			],
+			[
+				"inli",
+				"inline-block"
+			],
+			[
+				"sky",
+				"deepskyblue"
+			],
+			[
+				"green",
+				"darkgreen"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "<!DOCTYPE html>\n<html lang=\"en\">\n\n    <head>\n        <meta charset=\"UTF-8\">\n        <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\n        <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n        <title>Tech2etc Ecommerce Tutorial</title>\n        <link rel=\"stylesheet\" href=\"https://pro.fontawesome.com/releases/v5.10.0/css/all.css\" />\n\n        <link rel=\"stylesheet\" href=\"style.css\">\n    </head>\n\n    <body>\n\n        <script src=\"script.js\"></script>\n    </body>\n\n</html>",
+			"file": "/C/Users/eq2144au/AppData/Local/Temp/Temp1_Build-and-Deploy-Ecommerce-Website-main (1).zip/Build-and-Deploy-Ecommerce-Website-main/about.html",
+			"file_size": 521,
+			"file_write_time": 133300277880483341,
+			"settings":
+			{
+				"buffer_size": 503,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "<!DOCTYPE html>\n<html lang=\"en\">\n\n    <head>\n        <meta charset=\"UTF-8\">\n        <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\n        <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n        <title>Tech2etc Ecommerce Tutorial</title>\n        <link rel=\"stylesheet\" href=\"https://pro.fontawesome.com/releases/v5.10.0/css/all.css\" />\n\n        <link rel=\"stylesheet\" href=\"style.css\">\n    </head>\n\n    <body>\n\n        <script src=\"script.js\"></script>\n    </body>\n\n</html>",
+			"file": "/C/Users/eq2144au/AppData/Local/Temp/Temp1_Build-and-Deploy-Ecommerce-Website-main (1).zip/Build-and-Deploy-Ecommerce-Website-main/blog.html",
+			"file_size": 521,
+			"file_write_time": 133300278628950538,
+			"settings":
+			{
+				"buffer_size": 503,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/eq2144au/Downloads/flower image.html",
+		"/C/college/b.class",
+		"/C/Users/eq2144au/Desktop/aboutvaishu.html",
+		"/C/Users/eq2144au/Desktop/vaishucontact.html",
+		"/C/Users/eq2144au/Desktop/menuvaishu.html",
+		"/C/Users/eq2144au/Desktop/vaishu.html",
+		"/C/Users/eq2144au/Desktop/vaishnaviwebsite.html/vaishu.html",
+		"/C/Users/eq2144au/Desktop/vaishnaviwebsite.html/aboutvaishu.html",
+		"/C/Users/eq2144au/Desktop/vaishnaviwebsite.html/menuvaishu.html",
+		"/C/Users/eq2144au/Desktop/coffee shop.html",
+		"/C/Users/eq2144au/Desktop/radha website.css",
+		"/C/Users/eq2144au/Desktop/flower shop/contact.css",
+		"/C/Users/eq2144au/Desktop/radha website - Copy.html",
+		"/C/Users/eq2144au/Desktop/contact.html",
+		"/C/Users/eq2144au/Desktop/flower shop/contact.html",
+		"/C/Users/eq2144au/Desktop/radha website.html",
+		"/C/Users/eq2144au/Desktop/radhika.html",
+		"/C/Users/eq2144au/Desktop/radika.html",
+		"/C/Users/eq2144au/Desktop/abou.html",
+		"/C/Users/eq2144au/Desktop/vaishnaviwebsite.html/coffee shop.html",
+		"/C/Users/eq2144au/Desktop/flower shop/contact.php",
+		"/C/Users/eq2144au/Desktop/home.html"
+	],
+	"find":
+	{
+		"height": 32.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/Users/eq2144au/AppData/Local/Temp/Temp1_Build-and-Deploy-Ecommerce-Website-main (1).zip/Build-and-Deploy-Ecommerce-Website-main/about.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 503,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/Users/eq2144au/AppData/Local/Temp/Temp1_Build-and-Deploy-Ecommerce-Website-main (1).zip/Build-and-Deploy-Ecommerce-Website-main/blog.html",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 503,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "shipping.sublime-project",
+	"replace":
+	{
+		"height": 60.8
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
